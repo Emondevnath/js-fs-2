@@ -1,9 +1,9 @@
 // light on of function
 function showOff(){
-    document.getElementById('lightImg').src ="../images/ofbulb.gif";
+    document.getElementById('lightImg').src ="images/ofbulb.gif";
 }
 function showOn(){
-    document.getElementById('lightImg').src ="../images/onbulb.gif";
+    document.getElementById('lightImg').src ="images/onbulb.gif";
 }
 
 
@@ -11,20 +11,20 @@ function showOn(){
 
 // feeling sad smile
 function sadOff(){
-    document.getElementById('felImg').src ="../images/sad.png";
+    document.getElementById('felImg').src ="images/sad.png";
 }
 function smileOn(){
-    document.getElementById('felImg').src ="../images/smile.png";
+    document.getElementById('felImg').src ="images/smile.png";
 }
 // feeling sad smile
 
 
 // diamond ruby
 function felOff(){
-    document.getElementById('drImg').src ="../images/ruby.png";
+    document.getElementById('drImg').src ="images/ruby.png";
 }
 function felOn(){
-    document.getElementById('drImg').src ="../images/diamond.png";
+    document.getElementById('drImg').src ="images/diamond.png";
 }
 // diamond ruby
 
